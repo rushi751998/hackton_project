@@ -1,0 +1,7 @@
+Django
+deepface
+keras
+pandas
+tensorflow
+matplotlib
+sk-video
